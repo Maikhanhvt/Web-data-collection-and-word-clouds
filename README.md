@@ -12,11 +12,11 @@ Please create a narrative based on your research. In your narrative, please desc
   
 - anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you (5 PTS)
 
-- Export the two or more word clouds to the repository and then insert them to the readme.md. (5 PTS)
-- The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
-
 # Word Cloud 1
-- url to CSV: 
+![visualization word cloud of Hoi An](wordcloud-1.png)
+[Download the CSV](search-result-1.csv)
 
 # World Cloud 2
-- url to CSV:
+![visualization word cloud of Hoi An flooding](wordcloud-2.png)
+[Download the CSV](search-result-2.csv)
+
